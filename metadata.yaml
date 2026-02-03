@@ -1,4 +1,5 @@
-homepage: "https://stape.io/"
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/roq-ad-tag'
 versions:
   - sha: 2afdcaab038293acea5579ee82316f2c3ac6580c
     changeNotes: Initial release.
