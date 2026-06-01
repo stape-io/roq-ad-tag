@@ -6,7 +6,6 @@ Roqad is helping revolutionize digital advertising through actionable insights a
 
 Send events to Roq.ad trough server Google tag Manager container using our Roq.ad tag.
 
-
 ## Open Source
 
 Roq.ad Tag for GTM Server Side is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
